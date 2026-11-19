@@ -31,6 +31,7 @@
             border: 1px solid rgba(249, 115, 22, 0.3);
         }
 
+
         /* حركة دوران بطيئة للتروس في الخلفية */
         @keyframes spin-slow {
             from { transform: rotate(0deg); }
